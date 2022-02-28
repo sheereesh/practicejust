@@ -7,6 +7,7 @@ public class Fclass {
 System.out.println("im no way relateed");
 
 System.out.println("im the oneeeeit");
+System.out.println("im not a foool");
 	}
 
 }
